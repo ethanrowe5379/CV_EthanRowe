@@ -1,0 +1,9 @@
+body{
+    background-color:rgb(196, 196, 196);
+}
+
+nav p{
+    display: inline;
+    padding-left: 10px;
+    padding-right:10px;
+}
